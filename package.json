@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Arina Nasri & Allyn McKinney",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.98.0"
+  }
 }
